@@ -1,5 +1,4 @@
 #!/usr/bin/with-contenv bash
-set -x
 
 TMPL=/etc/privoxy/config.tmpl
 CONFIG=/etc/privoxy/config
